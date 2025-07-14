@@ -71,13 +71,22 @@ php artisan serve
 
 ---
 
-## 📸 Screenshots:
+## 📸 Screenshots
 
-| Submit Form | Confession List |
-|-------------|-----------------|
-| ![Form Page](resources/screenshots/form.jpej) | ![List Page](resources/screenshots/ConfessionList.jpeg) |
+### 📝 Submit Form Page
+
+<p align="center">
+  <img src="screenshots/form.png" alt="Form Page" width="600">
+</p>
 
 ---
+
+### 📃 Confession List Page
+
+<p align="center">
+  <img src="screenshots/list.png" alt="List Page" width="600">
+</p>
+
 
 ## ✅ Project Status:
 🎉 Completed and fully functional  
